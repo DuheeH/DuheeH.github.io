@@ -1,3 +1,3 @@
 lat	lon	title	description	icon	iconSize	iconOffset
-48.9459301  9.6075669   TitleOne    Marker1 Ol_icon_blue_example.png    24,24   0,-24
-48.9899851  9.5382032   TitleTwo    Marker2 PNG_transparency_demonstration_1.png    16,16   -8,-8
+48.9459301  9.6075669   TitleOne    Marker1 blue.png    24,24   0,-24
+48.9899851  9.5382032   TitleTwo    Marker2 red.png    16,16   -8,-8
